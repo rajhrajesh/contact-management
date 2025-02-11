@@ -8,6 +8,7 @@ JWT-based authentication
 CRUD operations for contacts (Create, Read, Update, Delete)
 Search contacts by name, email, or phone
 Secure API with authentication middleware
+
 Technologies Used
 Backend: Node.js, Express.js, MongoDB, Mongoose
 Frontend: React.js
